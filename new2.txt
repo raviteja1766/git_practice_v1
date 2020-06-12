@@ -4,8 +4,6 @@ This is the origin of file
 3
 4
 delete line five
-6
-7
 create eight line
 9
 10
